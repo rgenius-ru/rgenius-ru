@@ -1,4 +1,4 @@
-[![Header](https://github.com/header.png)](https://www.hobbi-robbi.ru/)
+[![Header](https://github.com/rgenius-ru/rgenius-ru/blob/main/assets/logo_800x298.png?raw=true)](https://www.hobbi-robbi.ru/)
 
 
 ## Backend/Apps/Techs Creator
